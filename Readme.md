@@ -1,6 +1,6 @@
-# React Typescript SCSS Template
+# Material-UI tutorial
 
-This project was created as a template for React projects in Typescript using SASS.\
+This project was created as a tutorial for [Material-UI](https://mui.com/) - intuitive React UI tools.\
 Before every commit your app will be checked for lint errors and formatted with Prettier.
 
 Run 'npm i' | 'yarn' to install all dependencies.
